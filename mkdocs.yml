@@ -23,6 +23,7 @@ nav:
             - Hotspot Mode: pkg_util_hotspot.md
             - Wiperf: pkg_util_wiperf.md
             - Profiler: pkg_util_profiler.md
+    - Linux Tools: linux_tools.md
     - Suppliers: suppliers.md
     - FAQ: faq.md
     - News: news.md
@@ -30,7 +31,7 @@ nav:
     - Getting Involved:
         - Overview: get_involved.md
         - Coding for the WLAN Pi: get_involved_coding.md
-        - Non-coder Contribution Opportunties: get_involved_non_coding.md
+        - Non-coder Contribution Opportunities: get_involved_non_coding.md
         - Bug Reports: get_involved_bugs.md
         - Feature Suggestions: get_involved_requests.md
     - Useful Links: useful_links.md
